@@ -1,0 +1,7 @@
+D:\Programing\C_Workspace\C#\Class\DDazua\032_Struct\bin\Debug\032_Struct.exe.config
+D:\Programing\C_Workspace\C#\Class\DDazua\032_Struct\bin\Debug\032_Struct.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\032_Struct\bin\Debug\032_Struct.pdb
+D:\Programing\C_Workspace\C#\Class\DDazua\032_Struct\obj\Debug\032_Struct.csproj.AssemblyReference.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\032_Struct\obj\Debug\032_Struct.csproj.CoreCompileInputs.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\032_Struct\obj\Debug\032_Struct.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\032_Struct\obj\Debug\032_Struct.pdb

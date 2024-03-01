@@ -1,0 +1,7 @@
+D:\Programing\C_Workspace\C#\Class\DDazua\013_ReadLine\bin\Debug\013_ReadLine.exe.config
+D:\Programing\C_Workspace\C#\Class\DDazua\013_ReadLine\bin\Debug\013_ReadLine.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\013_ReadLine\bin\Debug\013_ReadLine.pdb
+D:\Programing\C_Workspace\C#\Class\DDazua\013_ReadLine\obj\Debug\013_ReadLine.csproj.AssemblyReference.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\013_ReadLine\obj\Debug\013_ReadLine.csproj.CoreCompileInputs.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\013_ReadLine\obj\Debug\013_ReadLine.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\013_ReadLine\obj\Debug\013_ReadLine.pdb

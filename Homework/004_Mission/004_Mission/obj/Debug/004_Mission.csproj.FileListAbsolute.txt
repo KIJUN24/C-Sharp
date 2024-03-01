@@ -1,0 +1,7 @@
+D:\Programing\C_Workspace\C#\Homework\004_Mission\004_Mission\bin\Debug\004_Mission.exe.config
+D:\Programing\C_Workspace\C#\Homework\004_Mission\004_Mission\bin\Debug\004_Mission.exe
+D:\Programing\C_Workspace\C#\Homework\004_Mission\004_Mission\bin\Debug\004_Mission.pdb
+D:\Programing\C_Workspace\C#\Homework\004_Mission\004_Mission\obj\Debug\004_Mission.csproj.AssemblyReference.cache
+D:\Programing\C_Workspace\C#\Homework\004_Mission\004_Mission\obj\Debug\004_Mission.csproj.CoreCompileInputs.cache
+D:\Programing\C_Workspace\C#\Homework\004_Mission\004_Mission\obj\Debug\004_Mission.exe
+D:\Programing\C_Workspace\C#\Homework\004_Mission\004_Mission\obj\Debug\004_Mission.pdb

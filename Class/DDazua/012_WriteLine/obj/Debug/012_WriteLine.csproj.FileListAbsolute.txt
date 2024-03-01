@@ -1,0 +1,7 @@
+D:\Programing\C_Workspace\C#\Class\DDazua\012_WriteLine\bin\Debug\012_WriteLine.exe.config
+D:\Programing\C_Workspace\C#\Class\DDazua\012_WriteLine\bin\Debug\012_WriteLine.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\012_WriteLine\bin\Debug\012_WriteLine.pdb
+D:\Programing\C_Workspace\C#\Class\DDazua\012_WriteLine\obj\Debug\012_WriteLine.csproj.AssemblyReference.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\012_WriteLine\obj\Debug\012_WriteLine.csproj.CoreCompileInputs.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\012_WriteLine\obj\Debug\012_WriteLine.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\012_WriteLine\obj\Debug\012_WriteLine.pdb
